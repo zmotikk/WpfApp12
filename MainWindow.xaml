@@ -12,7 +12,6 @@
         <Canvas HorizontalAlignment="Left" Height="100" Margin="97,107,0,0" VerticalAlignment="Top" Width="100"/>
         <ComboBox HorizontalAlignment="Left" Margin="281,64,0,0" VerticalAlignment="Top" Width="120"/>
         <DocumentViewer HorizontalAlignment="Left" Margin="407,134,0,0" VerticalAlignment="Top"/>
-        <WebBrowser HorizontalAlignment="Left" Height="272" Margin="53,64,0,0" VerticalAlignment="Top" Width="445"/>
         <ScrollViewer HorizontalAlignment="Left" Height="100" Margin="378,279,0,0" VerticalAlignment="Top" Width="100"/>
         <ScrollViewer HorizontalAlignment="Left" Height="100" Margin="537,103,0,0" VerticalAlignment="Top" Width="100">
             <ToolBarPanel Height="100" Width="100"/>
@@ -25,7 +24,6 @@
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
-        <StatusBar HorizontalAlignment="Left" Height="100" Margin="138,120,0,0" VerticalAlignment="Top" Width="100"/>
         <TextBlock HorizontalAlignment="Left" Margin="661,327,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
         <ToolBar HorizontalAlignment="Left" Height="100" Margin="276,183,0,0" VerticalAlignment="Top" Width="100"/>
         <ToolBarTray HorizontalAlignment="Left" Height="100" Margin="64,273,0,0" VerticalAlignment="Top" Width="100"/>
